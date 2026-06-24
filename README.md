@@ -41,7 +41,6 @@ cover: "https://your-cdn.com/cover.jpg"
 - 照片墙 / 杂谈 / 说说
 - AI 聊天机器人 (Gemini)
 - 全文搜索 / 友链 / 评论区 (Gitalk)
-- HTML 图表嵌入 (dashmotion)
 - 移动端适配
 
 ## 技术栈
