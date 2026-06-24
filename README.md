@@ -17,7 +17,9 @@
 3. **Root Directory 设为 `Blogs`**
 4. 部署
 
-## 文章格式
+## 写文章
+
+任意 Markdown 即可，frontmatter 非必需。下面只是一个示例：
 
 ```md
 ---
@@ -28,15 +30,8 @@ description: "摘要"
 cover: "https://your-cdn.com/cover.jpg"
 ---
 
-## 章节标题
-
-#### ① 小标题
-#### ② 小标题
-#### ③ 小标题
-
-正文内容...
-
-## 写在最后
+随便写，支持表格、代码块、数学公式。
+也可以嵌入 HTML 图表（参考 dashmotion）。
 ```
 
 ## 功能
